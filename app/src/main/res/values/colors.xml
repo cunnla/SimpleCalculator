@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTvResult">#E8F5E9</color>
+    <color name="colorBck">#212121</color>
+
+    <color name="colorNumbers">#FFECB3</color>
+    <color name="colorNumbersPressed">#FFE082</color>
+
+    <color name="colorNumbers1">#FFE082</color>
+    <color name="colorNumbers1Pressed">#FFD54F</color>
+
+    <color name="colorEquals">#4CAF50</color>
+    <color name="colorEqualsPressed">#43A047</color>
+
+    <color name="colorC">#F44336</color>
+    <color name="colorCPressed">#E53935</color>
+
+    <color name="colorOperator">#03A9F4</color>
+    <color name="colorOperatorPressed">#039BE5</color>
+
+    <color name="colorBtnText">#FFFFFF</color>
+    <color name="colorBtnText1">#424242</color>
+
+
+
+</resources>
